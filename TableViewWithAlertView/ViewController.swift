@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         //        self.userTableView.delegate = self
         //        self.userTableView.dataSource = self
         self.registerTableViewCells()
-        print("Hello World!")
+       
     }
     
     
